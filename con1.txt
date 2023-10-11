@@ -1,8 +1,4 @@
 conflict1
-
 a
 b
-m
-n
 c
-
